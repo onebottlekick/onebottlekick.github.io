@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Dev blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "deep learning"
 name                     : "OneBottleKick"
 description              : "blog"
-# url                      : "https://onebottlekick.github.io"
+url                      : "https://onebottlekick.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -127,7 +127,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/onebottlekick"
 
-# Site Footer
+Site Footer
 footer:
   links:
     - label: "Twitter"
